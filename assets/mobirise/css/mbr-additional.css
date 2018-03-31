@@ -1,0 +1,103 @@
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
+
+
+
+#menu-a .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-a.mbr-navbar--stuck .mbr-navbar__section {
+  background: #553982;
+}
+#menu-a .mbr-navbar__section {
+  background: #553982;
+}
+#menu-a .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-a .mbr-brand__name a {
+  font-size: 48px;
+}
+#header1-b H1 {
+  font-size: 36px;
+  color: #ffffff;
+  text-align: center;
+  font-family: 'Oswald', sans-serif;
+}
+#header1-b P {
+  color: #ffffff;
+  font-size: 36px;
+  text-align: right;
+  font-family: 'Oswald', sans-serif;
+}
+#header1-b B {
+  text-align: center;
+}
+#header1-b I {
+  text-align: right;
+}
+#header1-b DIV {
+  color: #000000;
+  font-size: 13px;
+}
+#content4-e .mbr-section-title .mbr-header__text {
+  color: #553982;
+}
+#content4-e P {
+  font-family: 'Oswald', sans-serif;
+}
+#content4-e .mbr-section__col .mbr-header__text {
+  color: #553982;
+}
+#msg-box5-c .mbr-header__text {
+  color: #ffffff;
+}
+#msg-box5-c .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box5-c .mbr-article {
+  color: #ffffff;
+}
+#msg-box2-l .mbr-header .mbr-header__text {
+  color: #553982;
+  text-align: center;
+}
+#msg-box2-l .mbr-article {
+  color: #252525;
+}
+#msg-box2-n .mbr-header .mbr-header__text {
+  color: #553982;
+  text-align: center;
+}
+#msg-box2-n .mbr-article {
+  color: #252525;
+}
+#testimonials1-f .mbr-section__header {
+  color: #553982;
+}
+#contacts3-h STRONG {
+  color: #ffffff;
+}
+#contacts3-h P {
+  color: #ffffff;
+}
+#menu-o .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-o.mbr-navbar--stuck .mbr-navbar__section {
+  background: #553982;
+}
+#menu-o .mbr-navbar__section {
+  background: #553982;
+}
+#menu-o .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-o .mbr-brand__name a {
+  font-size: 48px;
+}
+#contacts3-p STRONG {
+  color: #ffffff;
+}
+#contacts3-p P {
+  color: #ffffff;
+}
