@@ -57,6 +57,24 @@
 #msg-box5-c .mbr-article {
   color: #ffffff;
 }
+#msg-box2-10 .mbr-header .mbr-header__text {
+  color: #252525;
+  text-align: right;
+}
+#msg-box2-10 .mbr-article {
+  color: #252525;
+}
+#msg-box2-10 .mbr-header .mbr-header__text P {
+  text-align: right;
+  color: #553982;
+}
+#msg-box2-12 .mbr-header .mbr-header__text {
+  color: #553982;
+  text-align: right;
+}
+#msg-box2-12 .mbr-article {
+  color: #252525;
+}
 #msg-box2-l .mbr-header .mbr-header__text {
   color: #553982;
   text-align: center;
